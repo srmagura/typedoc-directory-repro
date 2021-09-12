@@ -1,0 +1,8 @@
+{
+  "name": "typedoc-repro",
+  "packageManager": "yarn@3.0.2",
+  "devDependencies": {
+    "typedoc": "^0.22.3",
+    "typescript": "^4.4.3"
+  }
+}
